@@ -1,5 +1,0 @@
-t = input()
-v = input()
-x = input()
-y = input()
-print(f"a)5 10   б)100 {t}   в){x} 25 \n  7 cm     1949 {v}   2{x} {y}")
